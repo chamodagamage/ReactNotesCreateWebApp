@@ -1,2 +1,0 @@
-# ReactNotesCreateWebApp
-Created with CodeSandbox
